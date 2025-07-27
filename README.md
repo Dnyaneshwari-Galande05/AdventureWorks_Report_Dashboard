@@ -67,4 +67,5 @@ Optimize Inventory and Product Lines: Insights into product-level performance he
 Strengthen Territory Management: By visualizing sales by geography and territory, sales managers can allocate resources more effectively and identify growth opportunities.
 
 Screeshots
+
 https://github.com/Dnyaneshwari-Galande05/AdventureWorks_Report_Dashboard/blob/main/AdventureWorks_Report_Dashboard.PNG
