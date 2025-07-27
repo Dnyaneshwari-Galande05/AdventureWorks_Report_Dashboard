@@ -59,7 +59,6 @@ Usage: Compare categories across multiple groups (e.g., sales by product within 
 Purpose: Analyze multiple variables in a single visual.
 
 📈 Business Impact and Analysis
-🎯 Business Impact
 The AdventureWorks Power BI Dashboard provides actionable insights that help business users, analysts, and decision-makers:
 Enhance Sales Strategy: By analyzing revenue trends, high-performing products, and regional sales performance, the dashboard supports better forecasting and market planning.
 Improve Customer Understanding: Segmentation of customer data enables targeted marketing, personalized offers, and customer retention strategies.
